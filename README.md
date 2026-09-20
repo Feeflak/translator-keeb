@@ -1,8 +1,12 @@
 # Translator
+<img width="4032" height="3024" alt="IMG_1305J" src="https://github.com/user-attachments/assets/eb77064f-bc4e-45d3-a486-799e0856c9fb" />
 
 ### Ergonomic Keyboard with an Integrated Mouse Sensor
 
 ## [3D print files]()
+
+<img width="640" height="360" alt="TranslatorExample_HQ_128" src="https://github.com/user-attachments/assets/7b08281c-d8a0-4ebd-ad2a-815eaca8aa05" />
+
 
 ## Translator XV COMING SOON
 
