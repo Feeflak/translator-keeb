@@ -56,6 +56,8 @@
 
 - 2 x qmk compatible 3.3V mcu with at least 15 gpio pins and usbc - like RP2040 Zero
 
+- 14 x 3by6 self tapping countersunk screw for plastic
+
 - Standard soldering equipment([guide](https://www.youtube.com/watch?v=hjml-K-pV4E))
 
 ## Recommended Print Settings
