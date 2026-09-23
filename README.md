@@ -34,9 +34,9 @@
 
 - wired
 
-## [Design video]()
+## [Design video](https://youtu.be/0oacATjlTik)
 
-## [Assembly and Usage video]()
+## [Assembly and Usage video](https://youtu.be/Ng-JrAY0m8s)
 
 ## BOM
 
