@@ -3,12 +3,11 @@
 
 ### Ergonomic Keyboard with an Integrated Mouse Sensor
 
-## [3D print files]()
-
 <img width="640" height="360" alt="TranslatorExample_HQ_128" src="https://github.com/user-attachments/assets/7b08281c-d8a0-4ebd-ad2a-815eaca8aa05" />
 
+## [NEW 3D print files](https://www.printables.com/model/1883412-translator-keyboard-xv)
 
-## Translator XV COMING SOON
+## Translator XV Is Already Aviable!
 
 - Invisible bottom cover
 
@@ -33,6 +32,8 @@
 - fully opensource
 
 - wired
+  
+## [Legacy XIV version  3D print files](https://www.printables.com/model/1847284-translator-keyboard)
 
 ## [Design video](https://youtu.be/0oacATjlTik)
 
