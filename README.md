@@ -62,9 +62,9 @@
 - Standard soldering equipment([guide](https://www.youtube.com/watch?v=hjml-K-pV4E))
 ## Parts that I've used on my build:
 
-MCU: Rp240 zero
-Switches: Outemu Lime V3
-Keycaps: Custom KAM profile PBT ones from [Yuzu](https://yuzukeycaps.com/)
+- MCU: Rp240 zero
+- Switches: Outemu Lime V3
+- Keycaps: Custom KAM profile PBT ones from [Yuzu](https://yuzukeycaps.com/)
 
 ## Recommended Print Settings
 
