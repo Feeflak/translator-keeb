@@ -11,9 +11,7 @@
 
 - Invisible bottom cover
 
-- MCU specific mounting brackets
-
-- Improved TRRS socket mount
+- Better component(mcu and trrs socket) mounting brackets
 
 ## Features
 
